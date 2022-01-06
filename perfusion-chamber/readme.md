@@ -1,4 +1,5 @@
 # Perfusion chamber
+A perfusion chamber with integrated flow-manifold, allowing medium flow distribution and control over shear forces within respective scaffold compartments.
 
 ## File descriptions
 - 00_main-chamber.stl (where the scaffold will be located during incubation)
@@ -22,6 +23,9 @@
 - 6x M3 threaded nut
 - silicone tubing 1.5mm in diameter
 
-## Assembly instructions
+## Assembly and usage
+the attached stl files can be manufactured by SLA/DLP resin printing. For biomedical research applications the used resin should be non-toxic. Cleaning and sterilisation of the filter should be performed according to resin specifications.
 
-## Printing considerations
+The 3D printed components are assembled as shown in the diagram below. The connections are fastened using M3 threaded nuts and bolts.
+
+![explode-diagram](https://github.com/IRNAS/newharvest-perfusion-components/blob/master/perfusion-chamber/v1/explode-diagram.png)
