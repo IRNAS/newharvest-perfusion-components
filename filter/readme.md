@@ -19,4 +19,4 @@ the attached stl files can be manufactured by SLA/DLP resin printing. For biomed
 
 The 3D printed filter components are assembled from top to bottom: outlet-A -> main-chamber -> base-storage by placing o-ring seals between each pair. The connections are fastened using M3 threaded nuts and bolts. The filter is placed so that the base-storage component is lying flat on the bottom. Flow direction needs to be from the lateral input (main-chamber) to the top output (outlet-A).
 
-
+![explode-diagram](https://github.com/IRNAS/newharvest-perfusion-components/blob/master/filter/explode-diagram.png)
