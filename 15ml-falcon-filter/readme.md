@@ -12,3 +12,4 @@ Cyclone filters function by particle separation from a fluid by centrifugal forc
 the attached stl files can be manufactured by SLA/DLP resin printing. For biomedical research applications the used resin should be non-toxic. Cleaning and sterilisation of the filter should be performed according to resin specifications.
 The 3D printed filter components are assembled by placing the o-rings and using the filter to screw onto a 15ml falcon tube. Insert tubing connectors with M5 screws and seal them using o-rings.
 
+![](https://github.com/IRNAS/newharvest-perfusion-components/blob/master/15ml-falcon-filter/15ml-falcon-hydrocyclone-filter.png)
